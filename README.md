@@ -36,6 +36,10 @@ Below are the 4 entities your API will need to interact with.
 - postId
 - comment
 
+## Before You Start
+1. Fork this repository
+2. Clone your fork to your local machine.
+
 ## Step 1 - Setup API server
 
 This step is just typical project setup, installing librarys, adding boilerplate
