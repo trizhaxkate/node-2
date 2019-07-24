@@ -1,0 +1,23 @@
+{
+  "name": "node-2",
+  "version": "1.0.0",
+  "description": "In this project you'll build an API that with the following entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trizhaxkate/node-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trizhaxkate/node-2/issues"
+  },
+  "homepage": "https://github.com/trizhaxkate/node-2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
